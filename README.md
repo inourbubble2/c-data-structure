@@ -13,10 +13,15 @@ https://github.com/inourbubble2/c-data-structure/blob/main/03-LinkedList/LinkedL
 4. Tree
 https://github.com/inourbubble2/c-data-structure/blob/main/04-Tree/Tree.md
 
-5. Priority Queue
+5. Priority Queue 
+https://github.com/inourbubble2/c-data-structure/blob/main/05-PriorityQueue/PriorityQueue.md
+
+
 6. Graph
 7. Sortion
 8. Search
 9. Hashing
 10. Algorithm
 11. Data Compression
+
+C언어로 쉽게 풀어쓴 자료구조(생능, 천인국) 외 서적들을 참고하여 정리한 문서입니다.
