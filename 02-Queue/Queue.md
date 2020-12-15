@@ -26,3 +26,8 @@ https://github.com/inourbubble2/c-data-structure/blob/main/02-Queue/3-DeQueue.c
 
 > Q. 덱의 삽입/삭제 연산을 설명하시오.
 > > A. front에 데이터를 삽입할 때는, front를 감소시킨 뒤 최대 덱 크기를 더한 뒤 다시 최대 덱 크기로 나눈 수를 인덱스로 삼아 삽입합니다. front를 삭제할 때는 front를 증가시킨 뒤 최대 덱크기를 더하고 다시 나눈 수를 인덱스로 반환합니다. rear에 데이터를 삽입할 때는 rear를 증가시킨 뒤 위와 같은 연산을 하고, rear에 데이터를 삭제할 때는 rear를 감소시킨 뒤 같은 연산을 합니다.
+
+
+### 삽입 : --front, ++rear
+### 삭제 : ++front, --rear
+
