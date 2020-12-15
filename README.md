@@ -17,7 +17,9 @@ https://github.com/inourbubble2/c-data-structure/blob/main/04-Tree/Tree.md
 https://github.com/inourbubble2/c-data-structure/blob/main/05-PriorityQueue/PriorityQueue.md
 
 
-6. Graph
+6. Graph 
+https://github.com/inourbubble2/c-data-structure/blob/main/06-Graph/Graph.md
+
 7. Sortion
 8. Search
 9. Hashing
