@@ -1,6 +1,6 @@
 # Sortion
 
-## Comparison or sorting algorithms
+## Comparison of sorting algorithms
 ### 알고리즘 / 최선 / 평균 / 최악
 #### 선택 정렬 O(n) O(n^2) O(n^2)
 #### 삽입 정렬 O(n^2) O(n^2) O(n^2)
