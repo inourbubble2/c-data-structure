@@ -6,9 +6,9 @@
 #### 삽입 정렬 O(n^2) O(n^2) O(n^2)
 #### 버블 정렬 O(n^2) O(n^2) O(n^2)
 #### 쉘 정렬 O(n) O(n^1.5) O(n^1.5)
-#### 퀵 정렬 O(nlog2^n) O(nlog2^n) O(n^2)
-#### 히프 정렬 O(nlog2^n) O(nlog2^n) O(nlog2^n)
-#### 합병 정렬 O(nlog2^n) O(nlog2^n) O(nlog2^n)
+#### 퀵 정렬 O(nlog^n) O(nlog^n) O(n^2)
+#### 히프 정렬 O(nlog^n) O(nlog^n) O(nlog^n)
+#### 합병 정렬 O(nlog^n) O(nlog^n) O(nlog^n)
 #### 기수 정렬 O(dn) O(dn) O(dn)
 
 ## Selection Sort
