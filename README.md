@@ -26,7 +26,7 @@ https://github.com/inourbubble2/c-data-structure/blob/main/07-Sortion/Sortion.md
 https://github.com/inourbubble2/c-data-structure/blob/main/08-Search/Search.md
 
 9. Hashing
-10. Algorithm
+10. String
 11. Data Compression
 
 C언어로 쉽게 풀어쓴 자료구조(생능, 천인국) 외 서적들을 참고하여 정리한 문서입니다.
