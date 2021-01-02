@@ -35,7 +35,7 @@ https://github.com/inourbubble2/c-data-structure/blob/main/07-Sortion/4-ShellSor
 ## Merge Sort
 https://github.com/inourbubble2/c-data-structure/blob/main/07-Sortion/5-MergeSort.c
 > Q. 합병정렬의 방법과 복잡도에 대해 설명하시오.
-> > A. 합병정렬은 하나의 리스트를 두 개의 균등한 크기로 분할하고 분할된 부분 리스트를 정렬한 다음 두 개의 부분 리스트를 합하여 전체를 정렬시키는 알고리즘입니다. 합병 정렬은 분할 정복(Divide and conquer)에 바탕을 두고 있습니다. 합병정렬은 최선, 평균, 최악의 경우 모두 O(n^log2n)의 복잡도를 가지고 있습니다. 합병정렬은 임시 배열이 필요하고 레코드의 크기가 큰 경우엔 이동 횟수가 많으므로 시간적 낭비를 초래한다는 단점을 가지고 있지만, 레코드를 연결리스트로 구성할 경우 다른 정렬들보다 효율적입니다.
+> > A. 합병정렬은 하나의 리스트를 두 개의 균등한 크기로 분할하고 분할된 부분 리스트를 정렬한 다음 두 개의 부분 리스트를 합하여 전체를 정렬시키는 알고리즘입니다. 합병 정렬은 분할 정복(Divide and conquer)에 바탕을 두고 있습니다. 합병정렬은 최선, 평균, 최악의 경우 모두 O(n log2 n)의 복잡도를 가지고 있습니다. 합병정렬은 임시 배열이 필요하고 레코드의 크기가 큰 경우엔 이동 횟수가 많으므로 시간적 낭비를 초래한다는 단점을 가지고 있지만, 레코드를 연결리스트로 구성할 경우 다른 정렬들보다 효율적입니다.
 
 ## Quick Sort
 https://github.com/inourbubble2/c-data-structure/blob/main/07-Sortion/6-QuickSort.c
