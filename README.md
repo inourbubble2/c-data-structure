@@ -29,6 +29,6 @@ https://github.com/inourbubble2/c-data-structure/blob/main/08-Search/Search.md
 https://github.com/inourbubble2/c-data-structure/blob/main/09-Hashing/Hashing.md
 
 10. String
-11. Data Compression
+https://github.com/inourbubble2/c-data-structure/blob/main/10-String/String.md
 
 C언어로 쉽게 풀어쓴 자료구조(생능, 천인국) 외 서적들을 참고하여 정리한 문서입니다.
