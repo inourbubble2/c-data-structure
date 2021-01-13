@@ -1,18 +1,21 @@
-#include <stdio.h>
-
-int gcd(int n, int m)
+// 재귀적인 방법
+int gcd(int a, int b)
 {
-	if (m == 0)
-		return n;
-	return gcd(m, n%m);
+    if (b == 0)
+        return a;            // b가 0이 되었을 때의 a가 최대공약수임
+    else
+        return gcd(b, a%b);
 }
 
-int main(void)
+// 비재귀적인 방법
+int gcd2(int a, int b)
 {
-	int n, m;
-	n = 21;
-	m = 28;
-	printf("fac(%d, %d) = %d", n, m, gcd(n, m));
-	
-	return 0;
+    while(b != 0)  
+    {
+    	
+        int r = a % b;
+        a = b;
+        b = r;
+    }
+    return a;        // b가 0이 되었을 때의 a가 최대공약수임
 }
